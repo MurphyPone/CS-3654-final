@@ -2,10 +2,10 @@
 Final project for CS 3654 Data Viz
 
 **Team Members**:
-| Name         | PID          | 
-|--------------|--------------|
-| Peter Murphy | `petermurphy`|
-|Joseph McAlister | `josephrm`|
+| Name         | PID           | 
+|--------------|---------------|
+| Peter Murphy | `petermurphy` |
+|Joseph McAlister | `josephrm` |
 |??? | `???`|
 
 ## Overview
